@@ -1,3 +1,4 @@
+#DUC ANH DINH S25002
 binary = input("Podaj liczbę w systemie dwójkowym: ")
 octal = input("Podaj liczbę w systemie ósemkowym: ")
 hexadecimal = input("Podaj liczbę w systemie szesnastkowym: ")
