@@ -1,3 +1,4 @@
+#DUC ANH DINH S25002
 a = int(input("podaj 1 liczbe; "))
 b = int(input("podaj 2 liczbe; "))
 c = int(input("podaj 3 liczbe; "))
