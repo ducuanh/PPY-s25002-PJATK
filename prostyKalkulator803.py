@@ -1,4 +1,5 @@
-# Prosty kalkulator w Pythonie
+# Prosty kalkulator w Pythonie DUC ANH DINH S25002
+
 
 # Funkcja dodawania
 def dodawanie(x, y):
